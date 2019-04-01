@@ -96,11 +96,11 @@ some documentaion on the tool to help you: https://docs.qgis.org/3.4/en/docs/use
 Even with the documentation it can be a little daunting. However, you can get a great jump start by looking at your
 Processing History and copying the usage from the time you ran it previously (or run it again with the parameters you want). Just click on the `History` icon at the top of the `Processing Toolbox`:
 
-[!processing_toolbox_history_icon.png](screenshots/processing_toolbox_history_icon.png)
+![processing_toolbox_history_icon.png](screenshots/processing_toolbox_history_icon.png)
 
 You'll get your History in a separate Window. Find the whole command:
 
-[!processing_toolbox_history.png](screenshots/processing_toolbox_history.png)
+![processing_toolbox_history.png](screenshots/processing_toolbox_history.png)
 
 That's a great start but you need to replace all the values you used previously with values specific to each intersection
 point.
