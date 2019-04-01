@@ -154,9 +154,9 @@ understand the timing while it is running as well as diagnose problems if they c
 ### Recommendations for working with the Python Console
 
 A note on using the Python Console in QGIS: When you first open the Python Console, click on the 
-![python_editor_button.png](python_editor_button.png) icon to open the editor. Your Python console will be accompanied by an 
+![python_editor_button.png](screenshots/python_editor_button.png) icon to open the editor. Your Python console will be accompanied by an 
 editor and will look like this:
-![python_console_editor.png](python_console_editor.png)
+![screenshots/python_console_editor.png](python_console_editor.png)
 
 While you _can_ type in the python console, if you attempt to do anything with much complexity at all it will be
 very cumbersome and prone to syntax errors. Instead, you should put your python code in the editor and, when you are 
